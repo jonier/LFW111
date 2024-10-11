@@ -10,6 +10,8 @@
   "author": "Jonier Murillo",
   "license": "MIT",
   "dependencies": {
+    "fastify": "^5.0.0",
+    "fastify-cli": "^7.0.1",
     "server": "^1.0.41"
   }
 }
