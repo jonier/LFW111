@@ -30,3 +30,4 @@ const populateProducts = async () => {
       this.attachShadow({mode: 'open'}).appendChild(itemTmpl.cloneNode(true))
     }
   })
+  
