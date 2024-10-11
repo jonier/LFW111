@@ -1,0 +1,15 @@
+{
+  "name": "lfw111",
+  "version": "1.0.0",
+  "description": "Training on basic node js",
+  "main": "index.js",
+  "scripts": {
+    "static": "npx serve -p 5050 static",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jonier Murillo",
+  "license": "MIT",
+  "dependencies": {
+    "server": "^1.0.41"
+  }
+}
